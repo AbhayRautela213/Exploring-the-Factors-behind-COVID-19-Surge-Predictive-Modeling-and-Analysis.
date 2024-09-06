@@ -1,10 +1,7 @@
 # Exploring-the-Factors-behind-COVID-19-Surge-Predictive-Modeling-and-Analysis.
-<a href="https://my-campground.herokuapp.com/">
- <p align="center">
-<img src="https://github.com/AbhayRautela213/Crime-Rate-Prediction/assets/99676980/4cc6a668-1af7-485f-88e1-94892dd4e75d">
- </p>
-</a>
-We have demonstrated a predictive analysis approach in order to determine which factor among the environmental or man made has created a significant impact over the transmission of COVID 19.
+
+In this project, we leverage predictive modelling techniques to understand the relationships between various parameters, the rise in the number of cases, and the spreading patterns of COVID-19. We collect a dataset from various government sources, including information on temperature,
+humidity, air quality index, demographic characteristics, medical history, surgical history, and lifestyle habits. Among all these factors temperature has the most significant imapact over COVID 19 transmission.
 
 ## About the Project
 
