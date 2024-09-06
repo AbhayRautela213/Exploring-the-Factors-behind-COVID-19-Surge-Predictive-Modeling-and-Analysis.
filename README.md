@@ -1,5 +1,7 @@
 # Exploring-the-Factors-behind-COVID-19-Surge-Predictive-Modeling-and-Analysis.
-
+<p style="text-align: center;">
+<img src="https://github.com/user-attachments/assets/af5c495e-46b8-478d-b227-ec9006f64877">
+</p>
 In this project, we leverage predictive modelling techniques to understand the relationships between various parameters, the rise in the number of cases, and the spreading patterns of COVID-19. We collect a dataset from various government sources, including information on temperature,
 humidity, air quality index, demographic characteristics, medical history, surgical history, and lifestyle habits. Among all these factors temperature has the most significant imapact over COVID 19 transmission.
 
